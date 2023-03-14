@@ -1,4 +1,4 @@
-@article{REPO-175,
+@article{REPO-174,
     author = "Campos, Carlos and Elvira, Richard and Gomez, Juan J. and Montiel, Jose M. M. and Tardos, Juan D.",
     journal = "IEEE Transactions on Robotics",
     number = "6",
